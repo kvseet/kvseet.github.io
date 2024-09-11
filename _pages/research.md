@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 - Market Design For A Blockchain-Based Financial System, *work in progress*
     - Christian Catalini, Ravi Jagadeesan, Scott Duke Kominers, Karthik Seetharaman
 
