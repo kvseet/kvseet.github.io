@@ -12,6 +12,7 @@ Selected Coursework @ Stanford (Graduate-level marked with a \*)
 
 Mathematics: 
 
+- MATH 61CM: Honors Linear Algebra & Real Analysis
 - MATH 120: Groups and Rings
 - MATH 121: Galois Theory
 - MATH 144: Introduction to Topology \& Geometry
@@ -22,17 +23,17 @@ Mathematics:
 
 Computer Science:
 
-- CS 229\*: Machine Learning
-- CS 224N\*: Natural Language Processing with Deep Learning
-- CS 355\*: Advanced Topics in Cryptography
 - CS 149: Parallel Computing
+- CS 224N\*: Natural Language Processing with Deep Learning
+- CS 229\*: Machine Learning
 - CS 328\*: Foundations of Causal Machine Learning
+- CS 355\*: Advanced Topics in Cryptography
 
 Statistics:
 
-- STATS 200: Introduction to Statistical Inference
-- STATS 310A\*/310B\*/310C\*: Theory of Probability I/II/III
+- STATS 200\*: Introduction to Statistical Inference
 - STATS 305A\*: Applied Statistics I
+- STATS 310A\*/310B\*/310C\*: Theory of Probability I/II/III
 - EE 364A\*/364B\*: Convex Optimization I/II
 
 Economics:
@@ -41,8 +42,8 @@ Economics:
 - ECON 52: Intermediate Macroeconomics
 - ECON 136: Market Design
 - ECON 203\*: Microeconomics II (game theory)
-- ECON 284\*: Simplicity and Complexity in Economic Theory
 - ECON 257\*: Industrial Organization I
+- ECON 284\*: Simplicity and Complexity in Economic Theory
 
 <!-- Graduate-level marked with a \*:
 
