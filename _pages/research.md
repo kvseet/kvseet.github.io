@@ -8,7 +8,10 @@ author_profile: true
 - Market Design For A Blockchain-Based Financial System, *work in progress*
     - Christian Catalini, Ravi Jagadeesan, Scott Duke Kominers, Karthik Seetharaman
 
-- [Direct Preference Optimization With Unobserved Preference Heterogeneity](https://arxiv.org/abs/2405.15065), *preprint*
+- [Combinatorial comparison of general galled trees, time-consistent galled trees, and simplex time-consistent galled trees](https://arxiv.org/abs/2601.08062) *Advances in Applied Mathematics*
+    - Lily Agranat-Tamir, Michael Fuchs, Bernhard Gittenberg, Noah Rosenberg, Karthik Seetharaman
+
+- [Direct Preference Optimization With Unobserved Preference Heterogeneity](https://arxiv.org/abs/2405.15065), *AISTATS 2026*
     - Keertana Chidambaram\*, Karthik Seetharaman\*, Vasilis Syrgkanis
 
 - [Enhancing auto-scoring of student open responses in the presence of mathematical terms and expressions](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_68), *International Conference on Artificial Intelligence in Education (pp. 685-690), 2022*
@@ -22,6 +25,8 @@ author_profile: true
 
 Other Writing
 ======
+
+- [Influence Functions and Targeted Learning](/files/thesis.pdf), *my honors thesis for Stanford CS*
 
 - [Min-Norm Solutions to Group Lasso Problems](/files/MinNormSolutions.pdf), *final project for EE 364B: Convex Optimization II*
 
